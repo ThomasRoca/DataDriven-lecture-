@@ -4,12 +4,13 @@
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://github.com/ThomasRoca/)
 
 
-#### I. Data-driven lecture
-**Seminar organization**: 1h30: 3x 20 mins presentations + 10 mins QA<br>
-**Slide available in this folder:** Big_Data_Public_Policy_columbia_univ_SIPA.ipynb, [ + link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Big_Data_Public_Policy_columbia_univ_SIPA.ipynb)
-
-#### II. Dataviz workshop
+####. Dataviz workshop
 **Slide available in this folder:** Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb; [+ link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb)
+
+Tools we are going to use: 
+For this workshop, we are going to use Python 3.4.3 and JavaScript.
+I recommend installing [Python](https://www.python.org/downloads/release/python-343) and a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/)) we are also going to use [https://jsfiddle.net/](https://jsfiddle.net/) 
+
 
 ---
 
