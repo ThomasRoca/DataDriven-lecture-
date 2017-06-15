@@ -7,9 +7,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://
 ####. Dataviz workshop
 **Slide available in this folder:** Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb; [+ link to nbviewer](http://nbviewer.jupyter.org/github/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Dataviz_workshop_Columbia_Science_PO_SIPA.ipynb)
 
-Tools we are going to use: 
-For this workshop, we are going to use Python 3.4.3 and JavaScript.
-I recommend installing [Python](https://www.python.org/downloads/release/python-343) and a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/)) we are also going to use [https://jsfiddle.net/](https://jsfiddle.net/) 
+##### Tools we are going to use: 
+For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights) we are also going to use [https://jsfiddle.net/](https://jsfiddle.net/) 
 
 
 ---
