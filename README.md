@@ -1,4 +1,4 @@
-# The DataDriven workshop AFD 2017, leveraging Open Data for social good
+# The DataDriven workshop AFD 2017<br leveraging Open Data for social good
 *Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://github.com/ThomasRoca/)
