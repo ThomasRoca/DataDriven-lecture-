@@ -47,6 +47,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
   	
 	
 ## Further reading:
+- Friendly, M., 1999, "Re-Visions of Minard", (link)[http://www.datavis.ca/gallery/minard/minard.pdf]
 - Friendly, M., 2008, "A Brief History of Data Visualization" [link](http://byrneslab.net/classes/biol607/readings/Friendly_2008_dataviz_history.pdf)
 - Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
 - Yau, N. 2011, visualize this: the flowingdata guide to design, visualization, and statistics
@@ -56,4 +57,5 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 - https://www.highcharts.com/blog/
 - The Smithonianmag:"The Revolutionary Infographics of W.E.B. Du Bois And Booker T. Washington" [link](http://www.smithsonianmag.com/smart-news/the-revolutionary-infographics-of-web-du-bois-and-booker-t-washington-180959756)
 - ToucanTouco, Infographie vs Dataviz: Faites la différence. [Link](https://toucantoco.com/blog/infographie-vs-dataviz/)
+- Tufte, E. R. The Visual Display of Quantitative Information. Graphics Press, Cheshire, CT, 1983.
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
