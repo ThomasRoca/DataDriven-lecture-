@@ -29,14 +29,16 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
     + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
     + A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
     
-** 4. Data and code for the web: Data are not only stored in xls!
+**4. Data and programmming for the web:**
+	+Data are not only stored in xls!
 	+ Text format to store data:
 		CSVs, TSVs, etc.
 	+ Structured text data:
 		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to XML
+		+ Intro to YAML
 		
-**5. Getting real time data: the API revolution:**
+**5. Getting real time data: from scrapper to API, the data revolution:**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Example: Using [twitter API in python](http://nbviewer.jupyter.org/url/www.stats4dev.com/Ipython/Where_on_earth_is_Helen.ipynb)
 -  Use cases:
