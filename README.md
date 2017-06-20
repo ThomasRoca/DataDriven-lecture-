@@ -11,8 +11,8 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
 
 We are also going to use: 
-- 	a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
-- 	Carto an online map editor [sign up here - free account](https://carto.com/signup/)
+- 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
+- 	**Carto** an online map editor [sign up here - free](https://carto.com/signup/)
 
 **! To save time during the workshop, register to jsfiddle and carto**
 
@@ -76,6 +76,7 @@ We are also going to use:
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
+- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
 - https://www.w3schools.com
 - https://www.highcharts.com/blog/
 - [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
