@@ -25,9 +25,9 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 - 	Introduction to SVG
 
 **3. How to deal with data: JavaScript & dataviz**
-    + quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
-    + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
-    + A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
+- 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
+- 	dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
+- 	A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
     
 ---
 
