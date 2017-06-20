@@ -29,7 +29,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
     + dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
     + A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
   
-** Praticle: Create a DataStory with Highcharts and Carto
+** Praticle: Create a DataStory with Highcharts and Carto**
    + use [Data Story Template](Data Story Template.html) in the github repository
    
 **4. Data and programmming for the web:**
