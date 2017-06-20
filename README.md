@@ -37,7 +37,7 @@ We are also going to use:
 
 ---
 
-**Praticle: Create a DataStory with Highcharts and Carto**
+**Practical: Create a DataStory with Highcharts and Carto**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
 
 --- 
@@ -58,7 +58,7 @@ We are also going to use:
   
 ---
 
-**Praticle: buidling a Vélib application**
+**Pratical: buidling a Vélib application**
    + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
    + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
    
