@@ -30,7 +30,7 @@ We are also going to use:
 
 **3. A tiny bit of code: JavaScript & dataviz**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
-	+ Example of JavaSript Language on JSFidlle [link](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
+	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
 - 	dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
