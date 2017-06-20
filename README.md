@@ -30,7 +30,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
     + A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
   
 ** Praticle: Create a DataStory with Highcharts and Carto
-   + use ["Data Story Template.html"](Data Story Template.htm) in the github repository
+   + use [Data Story Template](Data Story Template.html) in the github repository
    
 **4. Data and programmming for the web:**
 	+Data are not only stored in xls!
@@ -50,7 +50,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
   	
 	
 ## Further reading:
-- Friendly, M., 1999, "Re-Visions of Minard", (link)[http://www.datavis.ca/gallery/minard/minard.pdf]
+- Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
 - Friendly, M., 2008, "A Brief History of Data Visualization" [link](http://byrneslab.net/classes/biol607/readings/Friendly_2008_dataviz_history.pdf)
 - Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
 - Yau, N. 2011, visualize this: the flowingdata guide to design, visualization, and statistics
@@ -59,7 +59,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 - Tufte, E. R. The Visual Display of Quantitative Information. Graphics Press, Cheshire, CT, 1983.
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
-** Tutorials**
+### Tutorials
 - https://www.w3schools.com
 - https://www.highcharts.com/blog/
 - [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
