@@ -5,7 +5,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://
 
 
 #### Dataviz workshop
-**Slide available in this folder:** line à venir
+**Slide available in this folder:** lien à venir
 
 **Tools we are going to use:**
 For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights) we are also going to use this javascript online editor [https://jsfiddle.net/](https://jsfiddle.net/) 
