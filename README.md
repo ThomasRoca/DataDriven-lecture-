@@ -52,7 +52,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
   
 ---
 
-**Praticle: buidling a Vélib application **
+**Praticle: buidling a Vélib application**
    + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
    + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
    
