@@ -33,7 +33,7 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 ---
 
 **Praticle: Create a DataStory with Highcharts and Carto**
-   + use [Data Story Template](Data Story Template.html) in the github repository
+   + use [Data Story Template](http://data.afd.fr/datastory/Data Story Template.html) in the github repository
 
 --- 
  
