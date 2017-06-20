@@ -22,12 +22,12 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 
 **2. Basic instroduction to the web languages: HTML, CSS, JavaScript**
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
-- 	Introduction to SVG
+- 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-**3. How to deal with data: JavaScript & dataviz**
+**3. A tiny bit of code: JavaScript & dataviz**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 - 	dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
-- 	A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
+- 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
 
 
 ---
