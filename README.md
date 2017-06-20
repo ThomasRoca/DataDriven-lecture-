@@ -1,14 +1,20 @@
 # The DataDriven workshop - AFD 23 juin 2017<br> Leveraging Open Data for social good
 *Thomas Roca, Phd, Researcher and Data Officer @Agence Française de Développement*
 
-Stay in touch via [Twitter](https://twitter.com/Thomas_Roca) & [Github](https://github.com/ThomasRoca/)
+Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
 
 
 #### Dataviz workshop
 **Slide available in this folder:** lien à venir
 
 **Tools we are going to use:**
-For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights) we are also going to use this javascript online editor [https://jsfiddle.net/](https://jsfiddle.net/) 
+For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
+
+We are also going to use: 
+- 	a javascript online editor [https://jsfiddle.net/](https://jsfiddle.net/)
+- 	Carto an online map editor [register here for the free account](https://carto.com/pricing/)
+
+** ! To save time during the workshop, register to jsfiddle and carto**
 
 **This workshop will cover:**
 
