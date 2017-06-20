@@ -11,10 +11,10 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 For this workshop, you will need to install a code editor (e.g. [Bracket](https://sourceforge.net/projects/bracketsportable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
 
 We are also going to use: 
-- 	a javascript online editor [https://jsfiddle.net/](https://jsfiddle.net/)
-- 	Carto an online map editor [register here for the free account](https://carto.com/pricing/)
+- 	a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
+- 	Carto an online map editor [sign up here - free account](https://carto.com/signup/)
 
-** ! To save time during the workshop, register to jsfiddle and carto**
+**! To save time during the workshop, register to jsfiddle and carto**
 
 **This workshop will cover:**
 
