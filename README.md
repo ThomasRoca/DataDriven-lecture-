@@ -47,11 +47,16 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 		
 **5. Getting real time data: from scrapper to API, the data revolution:**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
--  Example: Using [twitter API in python](http://nbviewer.jupyter.org/url/www.stats4dev.com/Ipython/Where_on_earth_is_Helen.ipynb)
--  Use cases:
-    + An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
-    + Buidling an [API based Velib'](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted) application 
-  	
+-  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
+-  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+  
+---
+
+**Praticle: buidling a Vélib application **
+   + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
+   + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
+   
+---   	
 	
 ## Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
