@@ -28,7 +28,8 @@ For this workshop, you will need to install a code editor (e.g. [Bracket](https:
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 - 	dataviz the example of [highchart](https://www.highcharts.com/) and [d3.js](https://d3js.org/)
 - 	A tiny bite of code SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
-    
+
+
 ---
 
 **Praticle: Create a DataStory with Highcharts and Carto**
