@@ -28,7 +28,7 @@ We are also going to use:
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-**3. A tiny bit of code **
+**3. A tiny bit of code**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
