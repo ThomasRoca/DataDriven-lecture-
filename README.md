@@ -22,7 +22,7 @@ We are also going to use:
 	- Communication
 	- Interactivity and Story telling
 -	Using packages with Stata, Python and R
--	SIG using cloudbased soft [Carto](https://carto.com/) and [Microsoft Office 365' PowerBI](https://powerbi.microsoft.com/fr-fr/desktop/)
+-	SIG using cloudbased soft [Microsoft Office 365' PowerBI](https://powerbi.microsoft.com/fr-fr/desktop/) and [Carto](https://carto.com/) 
 
 ---
 
