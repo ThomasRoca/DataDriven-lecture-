@@ -27,8 +27,7 @@ We are also going to use:
 ---
 
 **Practical: Create a heatmap with Carto (20 min)**
-   + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
-
+  
 --- 
 
 **II. Basic instroduction to the web languages: HTML, CSS, JavaScript (20 min)**
