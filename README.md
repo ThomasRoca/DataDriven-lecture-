@@ -28,12 +28,11 @@ We are also going to use:
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-**3. A tiny bit of code: JavaScript & dataviz**
+**3. A tiny bit of code **
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
-- 	dataviz the example of [highchart](https://www.highcharts.com/)
+- 	dataviz the example of [Highcharts](https://www.highcharts.com/)
 - 	SIG using [Highmaps](https://www.highcharts.com/) and [leaflet](http://leafletjs.com/)
-
 
 ---
 
@@ -75,13 +74,13 @@ We are also going to use:
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
-- Highcharts:
+- **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/
-- Carto:
+- **Carto:**
 	- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
 	- Carto Workshop tutorial:https://github.com/CartoDB/carto-workshop
-- HTML, CSS and JS: 
+- **HTML, CSS and JS:** 
 	- https://www.w3schools.com
 
 - [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
