@@ -75,9 +75,14 @@ We are also going to use:
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
-- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
-- Carto Workshop tutorial:https://github.com/CartoDB/carto-workshop
-- https://www.w3schools.com
-- https://www.highcharts.com/blog/
+- Highcharts:
+	- https://www.highcharts.com/demo
+	- https://www.highcharts.com/blog/
+- Carto:
+	- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
+	- Carto Workshop tutorial:https://github.com/CartoDB/carto-workshop
+- HTML, CSS and JS: 
+	- https://www.w3schools.com
+
 - [Data Glossary - Data-Pop Alliance](https://github.com/ThomasRoca/Lecture-Columbia-Science-Po-2017/blob/master/Glossary.md)
 - [Mapping Data Sources for development](https://afdlab4dev.github.io/Wiki-DataExploration-in-AFD/)
