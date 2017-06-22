@@ -86,7 +86,8 @@ We are also going to use:
 - **Highcharts:**
 	- https://www.highcharts.com/demo
 	- https://www.highcharts.com/blog/data-science/233-world-bank-open-data-api-highcharts-part1/
-	- https://www.highcharts.com/blog/data-science/233-world-bank-open-data-api-highcharts-part2/
+	- https://www.highcharts.com/blog/post/235-open-data-api-for-chart-creation-part-2/
+
 - **Carto:**
 	- Video tutorial for Carto: in [french](https://www.youtube.com/watch?v=nRKSR635-Kk), in [spanish](https://www.youtube.com/watch?v=o2dUzQiwUYE&t=2s)
 	- Carto Workshop tutorial:https://github.com/CartoDB/carto-workshop
