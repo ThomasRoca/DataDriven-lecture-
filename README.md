@@ -58,13 +58,16 @@ We are also going to use:
 		
 **IV. Getting real time data: from scrapper to API, the data revolution: [20min]**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
--  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+	+ [Example on JSFiddle](http://jsfiddle.net/ThomasRoca/0eata2p0/)
+-  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
+
   
 ---
 
 **Pratical: buidling a Vélib application [40min] // or DHS application**
    + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
+   	+ snipet on [JSFiddle](http://jsfiddle.net/ThomasRoca/zceqa7jf/)
    + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
    
 ---   	
