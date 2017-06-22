@@ -16,19 +16,26 @@ We are also going to use:
 
 **This workshop will cover:**
 
-**1. Basic introduction to data representation**
+**I. Basic introduction to data representation (15 min)**
 - 	What, and why dataviz ? 
 	- Better understanding
 	- Communication
 	- Interactivity and Story telling
 -	Using packages with Stata, Python and R
--	SIG using [Carto](https://carto.com/) and [Microsoft Office 365' PowerBI](https://powerbi.microsoft.com/fr-fr/desktop/)
+-	SIG using cloudbased soft [Carto](https://carto.com/) and [Microsoft Office 365' PowerBI](https://powerbi.microsoft.com/fr-fr/desktop/)
 
-**2. Basic instroduction to the web languages: HTML, CSS, JavaScript**
+---
+
+**Practical: Create a heatmap with Carto (20 min)**
+   + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
+
+--- 
+
+**II. Basic instroduction to the web languages: HTML, CSS, JavaScript (20 min)**
 -	Basic introduction to [HTML](https://www.w3schools.com/html/default.asp), [CSS](https://www.w3schools.com/css/default.asp)
 - 	Introduction to [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-**3. A tiny bit of code**
+**A tiny bit of code (20min)**
 - 	Quick intro to [JavaScript](https://www.w3schools.com/js/default.asp)
 	+ [Example of JavaSript Language](https://jsfiddle.net/ThomasRoca/50snpv6r/) 	
 - 	dataviz the example of [Highcharts](https://www.highcharts.com/)
@@ -36,28 +43,28 @@ We are also going to use:
 
 ---
 
-**Practical: Create a DataStory with Highcharts and Carto**
+**Practical: Create a DataStory with Highcharts and Carto (20min)**
    + use [Data Story Template](http://data.afd.fr/datastory/Data%20Story%20Template.html) in the github repository
 
 --- 
  
-**4. Data and programmming for the web:**
-	+Data are not only stored in xls!
+**III. Data and programmming for the web: (20min)**
+	+ Data are not only stored in xls!
 	+ Text format to store data:
 		CSVs, TSVs, etc.
 	+ Structured text data:
-		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to XML
+		+ Intro to [JSON](https://en.wikipedia.org/wiki/JSON)
 		+ Intro to YAML
 		
-**5. Getting real time data: from scrapper to API, the data revolution:**
+** IV. Getting real time data: from scrapper to API, the data revolution: (20min)**
 - Introduction: what is an [API](https://en.wikipedia.org/wiki/Application_programming_interface) ?
 -  Example: DHS API app': http://data.afd.fr/DataTools/DHS/DHS+browser.html 
 -  Use cases:An application leveraging [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
   
 ---
 
-**Pratical: buidling a Vélib application**
+**Pratical: buidling a Vélib application (40min) // or DHS application**
    + using [Velib API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
    + expected output: [Appli vélib AFD](http://data.afd.fr/DataTools/V%C3%A9libAFD.html)
    
