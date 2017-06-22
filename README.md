@@ -14,7 +14,7 @@ We are also going to use:
 
 **! To save time during the workshop, register to jsfiddle and carto**
 
-**This workshop will cover:**
+---
 
 **I. Basic introduction to data representation [15min]**
 - 	What, and why dataviz ? 
